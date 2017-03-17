@@ -112,6 +112,11 @@ a:hover {
   font-family: 'Open Sans';
   font-weight: lighter;
 }
+h1.tenali {
+	font-family: 'Tenali Ramakrishna';
+	font-weight: lighter;
+	font-size: 4em;
+}
 h1.open_sans {
 	font-size: 3em;
 }
